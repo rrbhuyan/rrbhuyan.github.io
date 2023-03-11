@@ -11,22 +11,11 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Bachelor of Statistics, Indian Statistical Institute, 2018
+* Master of Statistics, Indian Statistical Institute, 2020
+* Ph.D in Statistics, University of Southern California, 2025 (expected)
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
 * Skill 1
@@ -36,24 +25,11 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * Teaching Assistant for [BUAD 425](https://classes.usc.edu/term-20231/course/buad-425/) 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+
+Detailed CV can be found [here](rrbhuyan.github.io/assets/CV_Rashmi.pdf).

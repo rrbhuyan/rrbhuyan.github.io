@@ -9,28 +9,22 @@ redirect_from:
 
 {% include base_path %}
 
-Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model
+Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, *\(Under Submission, ICML 2023\)*
 -
-
- ## *Under Submission, ICML 2023*
 
 **Rashmi Ranjan Bhuyan, Adel Javanmard, Sungchul Kim, Gourab Mukherjee, Ryan A. Rossi, Tong Yu, Handong Zhao**
 
 We consider dynamic pricing strategies in a streamed longitudinal data set-up where the objective is to maximize, over time, the cumulative profit. Since consumers sharing similar characteristics act in similar ways, we consider a global shrinkage structure assuming that the consumers’ preferences can be well approximated by an SAR model. We propose a pricing policy based on penalized SGD and analyze the regret of the policy against a clairvoyant policy. Our regret analysis results demonstrates asymptotic optimality of the proposed policy and the importance of shrinkage in the aforementioned setup.
 
-An MCEM algorithm for consistent estimation in Network-linked high-dimensional multinomial Probit 
+An MCEM algorithm for consistent estimation in Network-linked high-dimensional multinomial Probit, *\(In Preparation\)*
 -
-
-## *In Preparation*
 
 **Rashmi Ranjan Bhuyan, Trambak Banerjee, Bhaswar Bhattacharya, Gourab Mukherjee**
 
 The multinomial probit model (MNP) is widely used for analyzing unordered categorical data and we regularly encounter cross-sectional datasets with categorical responses and high-dimensional covariates. In absence of repeated observations from the respondents, we use additional network structure to pool information across similar units to provide significantly better inference. However, estimating the effects of sparse high-dimensional covariates in the presence of network linkages is challenging. We develop a novel Monte Carlo EM algorithm for consistent variable selection in this high-dimensional MNP setup. We demonstrate the application of the proposed method in spatial autocorrelation network structured MNP models.
 
-A Dynamic Bayesian Mixture Model for Fine-grained Promotion Mix Analysis of Digital Coupons
+A Dynamic Bayesian Mixture Model for Fine-grained Promotion Mix Analysis of Digital Coupons, *\(In Preparation\)*
 -
-
-## *In Preparation*
 
 **Rashmi Ranjan Bhuyan, Wreetabrata Kar, Gourab Mukherjee**
 

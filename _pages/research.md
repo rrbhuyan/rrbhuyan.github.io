@@ -12,7 +12,7 @@ redirect_from:
 Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model
 -
 
- ##*Under Submission, ICML 2023*
+ ## *Under Submission, ICML 2023*
 
 **Rashmi Ranjan Bhuyan, Adel Javanmard, Sungchul Kim, Gourab Mukherjee, Ryan A. Rossi, Tong Yu, Handong Zhao**
 
@@ -21,7 +21,7 @@ We consider dynamic pricing strategies in a streamed longitudinal data set-up wh
 An MCEM algorithm for consistent estimation in Network-linked high-dimensional multinomial Probit 
 -
 
-##*In Preparation*
+## *In Preparation*
 
 **Rashmi Ranjan Bhuyan, Trambak Banerjee, Bhaswar Bhattacharya, Gourab Mukherjee**
 
@@ -30,7 +30,7 @@ The multinomial probit model (MNP) is widely used for analyzing unordered catego
 A Dynamic Bayesian Mixture Model for Fine-grained Promotion Mix Analysis of Digital Coupons
 -
 
-##*In Preparation*
+## *In Preparation*
 
 **Rashmi Ranjan Bhuyan, Wreetabrata Kar, Gourab Mukherjee**
 

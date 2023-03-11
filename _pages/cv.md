@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -18,13 +18,8 @@ Education
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
+* Working Knowledge: R, Python, SQL, Excel
+* Introductory Knowledge: C, Git, MATLAB
   
 Teaching
 ======
@@ -32,4 +27,4 @@ Teaching
   
 
 
-Detailed CV can be found [here](rrbhuyan.github.io/assets/CV_Rashmi.pdf).
+Detailed CV available [here](https://rrbhuyan.github.io/CV_Rashmi.pdf).

@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, *\(Under Submission, ICML 2023\)*
+Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, *\(Under Submission, NeurIPS 2023\)*
 -
 
 **Rashmi Ranjan Bhuyan, Adel Javanmard, Sungchul Kim, Gourab Mukherjee, Ryan A. Rossi, Tong Yu, Handong Zhao**

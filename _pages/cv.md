@@ -27,7 +27,8 @@ Industry Experience
 
 Teaching
 ======
-  * Teaching Assistant for [BUAD 425](https://classes.usc.edu/term-20231/course/buad-425/) 
+  * Teaching Assistant for [BUAD 425](https://classes.usc.edu/term-20231/course/buad-425/)
+  * Instructor for [BUAD 425](https://classes.usc.edu/term-20231/course/buad-425/) 
   
 
 

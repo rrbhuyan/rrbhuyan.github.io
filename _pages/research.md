@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, *\(Under Submission, JMLR\)*
+[Structured Dynamic Pricing: Optimal Regret in a Global Shrinkage Model, *\(Under Submission, JMLR\)*](https://arxiv.org/abs/2303.15652)
 - 
 
 **Rashmi Ranjan Bhuyan, Adel Javanmard, Sungchul Kim, Gourab Mukherjee, Ryan A. Rossi, Tong Yu, Handong Zhao**
